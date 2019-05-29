@@ -1,2 +1,1 @@
-# th3
-bài thực  hành 3
+# th4
